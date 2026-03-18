@@ -63,11 +63,11 @@ body {
   box-shadow: 0.1rem 0.1rem 0.5rem 0.1rem #c2c0c0;
 }
 
-.section-cards {
+.cards {
   width: 100%;
 }
 
-.section-cards h2 {
+.cards h2 {
   color: #0e2b61;
   font-family: sans-serif;
   width: 100%;
