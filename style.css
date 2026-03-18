@@ -86,8 +86,9 @@ body {
 .card {
   font-family: sans-serif;
   color: #0e2b61;
-  width: 300px;
+  text-align: center;
   height: 200px;
+  width: 300px;
   margin: 16px;
   place-items: center;
   border: 1px solid #ccc;
